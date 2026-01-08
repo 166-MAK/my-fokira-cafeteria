@@ -1,0 +1,17 @@
+
+.menu-item{
+    background-color: rgb(153, 183, 55);
+    font-variant-position: super;
+}
+    
+.item-name{
+    color:brown;
+    font: bold;
+    font-style: initial;
+
+}
+.item-description{
+    color: rgb(22, 22, 183);
+    font-style: italic;
+
+}
